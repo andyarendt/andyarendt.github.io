@@ -9,6 +9,9 @@ a {
 a:focus {
     color: yellow;
 }
-a.hover {
-    background-color: rgb(213, 23, 36);
+a:hover {
+    background-color: rgb(28, 39, 185);
+}
+a:active {
+    color: yellow;
 }
